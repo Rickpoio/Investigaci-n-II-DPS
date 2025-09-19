@@ -1,20 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Curso de React Native",
+    "title": "Charmander",
     "description": "Aprende a crear apps móviles multiplataforma.",
-    "image": "https://placekitten.com/300/200"
+    "image": "../img/charmander.png"
   },
   {
     "id": 2,
-    "title": "Servicio de Diseño UX/UI",
+    "title": "El Goat",
     "description": "Diseños profesionales para tus aplicaciones.",
-    "image": "https://placekitten.com/301/200"
+    "image": "../img/bidoof.png"
   },
   {
     "id": 3,
-    "title": "Artículo de Programación",
+    "title": "Gengar",
     "description": "Buenas prácticas en el desarrollo móvil.",
-    "image": "https://placekitten.com/302/200"
+    "image": "../img/gengar.png"
+  },
+  {
+    "id": 4,
+    "title": "Pikachu",
+    "description": "Buenas prácticas en el desarrollo móvil.",
+    "image": "../img/Pikachu.png"
   }
 ]
