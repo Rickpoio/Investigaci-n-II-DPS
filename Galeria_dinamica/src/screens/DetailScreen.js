@@ -17,7 +17,19 @@ export default function DetailScreen({ route }) {
           <Image source={{ uri: item.tipo }} style={styles.tipo} />
               <Image source={{ uri: item.tipo2 }} style={styles.tipo} />
     </View>
+  <Text style={styles.title}>{item.debt}</Text>
 
+  <View style={{ flexDirection: "row", marginTop: 8 }}>
+          <Image source={{ uri: item.debil }} style={styles.tipo} />
+                   <Image source={{ uri: item.debil2 }} style={styles.tipo} />
+                   <Image source={{ uri: item.debil3 }} style={styles.tipo} />
+                     
+    </View>
+    <View style={{ flexDirection: "row", marginTop: 8 }}>
+          <Image source={{ uri: item.debil4 }} style={styles.tipo} />
+                  <Image source={{ uri: item.debil5 }} style={styles.tipo} />
+                     
+    </View>
       </View>
     
     );
