@@ -7,6 +7,7 @@ export default function Card({ item, onPress }) {
       <Image source={{ uri: item.image }} style={styles.image} />
       <Text style={styles.title}>{item.title}</Text>
       <Text numberOfLines={2} style={styles.desc}>{item.description}</Text>
+      
     </TouchableOpacity>
   );
 }

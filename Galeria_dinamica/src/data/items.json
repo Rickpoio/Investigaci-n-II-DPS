@@ -2,25 +2,71 @@
   {
     "id": 1,
     "title": "Charmander",
-    "description": "Aprende a crear apps móviles multiplataforma.",
-    "image": "../img/charmander.png"
+    "description": "La llama de su cola indica su fuerza vital. Si está débil, la llama arderá más tenue.",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png",
+        "tipo":"https://static.wikia.nocookie.net/espokemon/images/c/ce/Tipo_fuego.gif/revision/latest/scale-to-width-down/70?cb=20221120232827"
   },
   {
     "id": 2,
     "title": "El Goat",
-    "description": "Diseños profesionales para tus aplicaciones.",
-    "image": "../img/bidoof.png"
+    "description": "Tiene nervios de acero y nada puede perturbarlo. Es más ágil y activo de lo que aparenta.",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/399.png",
+        "tipo":"https://static.wikia.nocookie.net/espokemon/images/3/32/Tipo_normal.gif/revision/latest/scale-to-width-down/70?cb=20221120232850"
   },
   {
     "id": 3,
     "title": "Gengar",
-    "description": "Buenas prácticas en el desarrollo móvil.",
-    "image": "../img/gengar.png"
+    "description": "Para quitarle la vida a su presa, se desliza en su sombra y espera su oportunidad en silencio.",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/094.png",
+    "tipodesc":"Tipo",
+        "tipo":"https://static.wikia.nocookie.net/espokemon/images/4/47/Tipo_fantasma.gif/revision/latest/scale-to-width-down/70?cb=20221120232821",
+         "tipo2":"https://static.wikia.nocookie.net/espokemon/images/1/10/Tipo_veneno.gif/revision/latest/scale-to-width-down/70?cb=20221120232933"
   },
   {
     "id": 4,
     "title": "Pikachu",
-    "description": "Buenas prácticas en el desarrollo móvil.",
-    "image": "../img/Pikachu.png"
+    "description": "Cuando se enfada, este Pokémon descarga la energía que almacena en el interior de las bolsas de las mejillas.",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png",
+     "tipodesc":"Tipo",  
+    "tipo":"https://static.wikia.nocookie.net/espokemon/images/1/1b/Tipo_el%C3%A9ctrico.gif/revision/latest/scale-to-width-down/70?cb=20221120232815"
+  },
+    {
+    "id": 5,
+    "title": "Aggron",
+    "description": "Sus cuernos duros y afilados pueden perforar hasta las planchas de hierro más gruesas. Derriba a sus rivales cargando contra ellos.",
+     "tipodesc":"Tipo",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/306.png",
+      "tipo":"https://static.wikia.nocookie.net/espokemon/images/d/d9/Tipo_acero.gif/revision/latest/scale-to-width-down/70?cb=20221120232749",
+      "tipo2":"https://static.wikia.nocookie.net/espokemon/images/e/e0/Tipo_roca.gif/revision/latest/scale-to-width-down/70?cb=20221120232914"
+ 
+    },
+  {
+    "id": 6,
+    "title": "Infernape",
+    "description": "Utiliza unos movimientos de combate únicos en los que se envuelve las manos y los pies con llamas para enfrentarse a cualquier enemigo.",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/392.png",
+     "tipodesc":"Tipo",    
+    "tipo":"https://static.wikia.nocookie.net/espokemon/images/c/ce/Tipo_fuego.gif/revision/latest/scale-to-width-down/70?cb=20221120232827",
+    "tipo2":"https://static.wikia.nocookie.net/espokemon/images/b/b7/Tipo_lucha.gif/revision/latest/scale-to-width-down/70?cb=20221120232844"
+  
+  },
+  {
+    "id": 7,
+    "title": "Sableye",
+    "description": "Hace su guarida en cuevas oscuras. Usa sus afiladas garras para desenterrar las gemas que se come.",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/302.png",
+     "tipodesc":"Tipo",
+    "tipo2":"https://static.wikia.nocookie.net/espokemon/images/4/47/Tipo_fantasma.gif/revision/latest/scale-to-width-down/70?cb=20221120232821",
+    "tipo":"https://static.wikia.nocookie.net/espokemon/images/8/82/Tipo_siniestro.gif/revision/latest/scale-to-width-down/70?cb=20221120232921"
+      
+  },
+   {
+    "id": 8,
+    "title": "Rockruff",
+    "description": "Se mueven en manada hasta que son adultos. Cuando están de mal humor, golpean el suelo con las rocas que tienen en el cuello.",
+    "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/744.png",
+     "tipodesc":"Tipo",
+    "tipo":"https://static.wikia.nocookie.net/espokemon/images/e/e0/Tipo_roca.gif/revision/latest/scale-to-width-down/70?cb=20221120232914"
   }
+  
 ]
