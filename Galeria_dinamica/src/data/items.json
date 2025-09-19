@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Curso de React Native",
+    "description": "Aprende a crear apps móviles multiplataforma.",
+    "image": "https://placekitten.com/300/200"
+  },
+  {
+    "id": 2,
+    "title": "Servicio de Diseño UX/UI",
+    "description": "Diseños profesionales para tus aplicaciones.",
+    "image": "https://placekitten.com/301/200"
+  },
+  {
+    "id": 3,
+    "title": "Artículo de Programación",
+    "description": "Buenas prácticas en el desarrollo móvil.",
+    "image": "https://placekitten.com/302/200"
+  }
+]
